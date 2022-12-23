@@ -15,3 +15,10 @@ The purpose of this analysis is to create a compelling business proposal to pote
 The final graph shows a breakdown of users by gender, day of the week, and whether they were a customer or subscriber to the bike-sharing program. The chart shows that the largest number of users are male riders, who are subscribers.
 
 3. Summary:
+We can conclude through our analysis of the bikesharing data that our bike-sharing program is overwhelmingly used by male customers with subscriptions. In our visualization graphs we can see that the peak usage time is early morning and early evening hours. Our customers generally use the bikes for less than 30 minutes, rarely exceeding that timeframe.
+
+Although we gained much insight into our customer base and how our bike sharing business model could succeed, more information could be visualized.
+
+First I would like to look at where the bikes are being dropped off. Are they being dropped off in many locations or in a more centralized area. This could be important for maintenance purposes. It would be much more cost effective to do all, or most, of the maintenance at as few locations as possible. Also, are more bikes needed in different areas?
+
+Another area to further analyze would be other months, such as the winter months. How would the weather affect the number of commuters we would have? If so, what steps could we take to increase usage.
