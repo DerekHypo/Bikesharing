@@ -10,4 +10,7 @@ The purpose of this analysis is to create a compelling business proposal to pote
 ![Story 1 (1)](https://user-images.githubusercontent.com/67697826/209379975-b9ed6727-bd86-4106-85e5-8b051e7eec57.png) The graph above displays the duration of trips in minutes per number of bikes with filtering based on gender information. The majority of our rides are males.
 ![Story 1 (2)](https://user-images.githubusercontent.com/67697826/209381677-a447374f-0997-4c79-8e66-7f145608d04d.png) The busiest days for bike rentals are between Monday-Friday. The most frequent usage times are between the hours of 6:00 and 9:00 and 17:00 and 18:00. We assume that both daily commuters and tourists are using the bikes.
 ![Trips by weekday_hr(Gender)](https://user-images.githubusercontent.com/67697826/209382980-965d6898-83f5-4838-973a-c03c9266424c.png) As stated, the numbers suggest that our highest demographic of commuters are male are the majority of users.
-![UserTrips by Gender by weekday](https://user-images.githubusercontent.com/67697826/209384179-269406e3-e611-4990-86b2-d08d44e7ce5c.png) The final graph shows a breakdown of users by gender, day of the week, and whether they were a customer or subscriber to the bike-sharing program. The chart shows that the largest number of users are male riders, who are subscribers.
+![UserTrips by Gender by weekday](https://user-images.githubusercontent.com/67697826/209384179-269406e3-e611-4990-86b2-d08d44e7ce5c.png) 
+The final graph shows a breakdown of users by gender, day of the week, and whether they were a customer or subscriber to the bike-sharing program. The chart shows that the largest number of users are male riders, who are subscribers.
+
+3. Summary:
